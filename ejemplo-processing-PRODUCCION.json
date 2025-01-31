@@ -1,0 +1,171 @@
+{
+    "id": 2265,
+    "parent_id": 0,
+    "status": "processing",
+    "currency": "MXN",
+    "version": "8.9.3",
+    "prices_include_tax": false,
+    "date_created": "2025-01-31T11:47:38",
+    "date_modified": "2025-01-31T11:47:44",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "0.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "130.00",
+    "total_tax": "0.00",
+    "customer_id": 0,
+    "order_key": "wc_order_yUOJ3UCooTatg",
+    "billing": {
+      "first_name": "Emerith",
+      "last_name": "Sanchez",
+      "company": "",
+      "address_1": "San joaquin",
+      "address_2": "",
+      "city": "Ixtlahuaca",
+      "state": "MX",
+      "postcode": "50740",
+      "country": "MX",
+      "email": "emesan040692@gmail.com",
+      "phone": "7121679546"
+    },
+    "shipping": {
+      "first_name": "Emerith",
+      "last_name": "Sanchez",
+      "company": "",
+      "address_1": "San joaquin",
+      "address_2": "",
+      "city": "Ixtlahuaca",
+      "state": "MX",
+      "postcode": "50740",
+      "country": "MX",
+      "phone": ""
+    },
+    "payment_method": "openpay_cards",
+    "payment_method_title": "Pago con tarjeta de crédito o débito",
+    "transaction_id": "trjqcpu8uaiih7r0d0qd",
+    "customer_ip_address": "200.63.42.247",
+    "customer_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36",
+    "created_via": "checkout",
+    "customer_note": "",
+    "date_completed": null,
+    "date_paid": "2025-01-31T11:47:43",
+    "cart_hash": "adb129668e2be9fd344c91e9d74367ce",
+    "number": "2265",
+    "meta_data": [
+      {
+        "id": 1340,
+        "key": "_openpay_3d_secure_url",
+        "value": "https://api.openpay.mx/v1/charges/trjqcpu8uaiih7r0d0qd/frictionless/authorize"
+      },
+      {
+        "id": 1339,
+        "key": "_openpay_customer_id",
+        "value": "ayxrf4clcjpqlg6ddbiu"
+      },
+      {
+        "id": 1338,
+        "key": "_wc_order_attribution_device_type",
+        "value": "Mobile"
+      },
+      {
+        "id": 1330,
+        "key": "_wc_order_attribution_referrer",
+        "value": "https://www.google.com/"
+      },
+      {
+        "id": 1336,
+        "key": "_wc_order_attribution_session_count",
+        "value": "1"
+      },
+      {
+        "id": 1333,
+        "key": "_wc_order_attribution_session_entry",
+        "value": "https://www.biencel.mx/"
+      },
+      {
+        "id": 1335,
+        "key": "_wc_order_attribution_session_pages",
+        "value": "4"
+      },
+      {
+        "id": 1334,
+        "key": "_wc_order_attribution_session_start_time",
+        "value": "2025-01-31 17:43:21"
+      },
+      {
+        "id": 1329,
+        "key": "_wc_order_attribution_source_type",
+        "value": "organic"
+      },
+      {
+        "id": 1337,
+        "key": "_wc_order_attribution_user_agent",
+        "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36"
+      },
+      {
+        "id": 1332,
+        "key": "_wc_order_attribution_utm_medium",
+        "value": "organic"
+      },
+      {
+        "id": 1331,
+        "key": "_wc_order_attribution_utm_source",
+        "value": "google"
+      },
+      {
+        "id": 1326,
+        "key": "is_vat_exempt",
+        "value": "no"
+      }
+    ],
+    "line_items": [
+      {
+        "id": 131,
+        "name": "Recarga 130",
+        "product_id": 1970,
+        "variation_id": 0,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "130.00",
+        "subtotal_tax": "0.00",
+        "total": "130.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [],
+        "sku": "",
+        "price": 130,
+        "image": {
+          "id": "1971",
+          "src": "https://www.biencel.mx/wp-content/uploads/2024/12/130-min-1-scaled.jpg"
+        },
+        "parent_name": null
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "payment_url": "https://www.biencel.mx/checkout/order-pay/2265/?pay_for_order=true&key=wc_order_yUOJ3UCooTatg",
+    "is_editable": false,
+    "needs_payment": false,
+    "needs_processing": true,
+    "date_created_gmt": "2025-01-31T17:47:38",
+    "date_modified_gmt": "2025-01-31T17:47:44",
+    "date_completed_gmt": null,
+    "date_paid_gmt": "2025-01-31T17:47:43",
+    "currency_symbol": "$",
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.biencel.mx/wp-json/wc/v3/orders/2265"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.biencel.mx/wp-json/wc/v3/orders"
+        }
+      ]
+    }
+  }
